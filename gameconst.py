@@ -1,0 +1,12 @@
+SCREEN_WIDTH = 600
+SCREEN_HEIGHT = 600
+SNAKE_SIZE = 3
+SEGMENT_SIZE = 20
+UP = 90
+DOWN =270
+LEFT = 180
+RIGHT = 0
+ALIGNMENT = "center"
+FONT = ("Courier", 20, "bold")
+border_w = int(SCREEN_WIDTH / 2) - 20
+border_h = int(SCREEN_HEIGHT / 2) - 20
